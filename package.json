@@ -1,0 +1,18 @@
+{
+  "name": "nenkins",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonbri/nenkins.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonbri/nenkins/issues"
+  },
+  "homepage": "https://github.com/jonbri/nenkins#readme"
+}
