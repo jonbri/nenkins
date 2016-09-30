@@ -1,4 +1,15 @@
 # nenkins
 A Node web server for executing shell commands over HTTP
 
-Example: `http://localhost:3123/ls`
+```
+node index.js
+```
+
+Examples:
+```
+# list files
+http://localhost:3123/ls
+
+# escape paths
+http://localhost:3123/%2Fusr%2Flocal%2Fbin%2Fmy_script
+```
