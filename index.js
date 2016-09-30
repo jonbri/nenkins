@@ -20,7 +20,7 @@ http.createServer(function (req, res) {
     sCommand = aParts.shift();
     aArgs = aParts.slice(0);
 
-    var sFullCommand = sCommand + ' ' + aArgs.toString().replace(',',' ');
+    sFullCommand = sCommand + ' ' + aArgs.toString().replace(',',' ');
 
     // un-escape forward-slash characters
     sFullCommand = sFullCommand.replace(/%2F/g,'/');
