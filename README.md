@@ -13,3 +13,6 @@ http://localhost:3123/ls
 # escape paths
 http://localhost:3123/%2Fusr%2Flocal%2Fbin%2Fmy_script
 ```
+
+## License
+[BSD-2-Clause](http://spdx.org/licenses/BSD-2-Clause)
